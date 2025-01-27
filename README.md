@@ -1,1 +1,1 @@
-# trying the capstone project of python
+# Trying the capstone project of python
